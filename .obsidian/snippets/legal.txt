@@ -1,0 +1,27 @@
+Various snippets that are not my own / licensed differently:
+
+---
+
+- slide_fixes.css
+was created by mess_2021 on the obsidian forum:
+https://forum.obsidian.md/t/css-to-fix-the-obsidian-presentation-slide/34934
+
+---
+
+- vault_title.css
+The seed was given to me by 'sailKite' on the obsidian discord server:
+https://github.com/sailKiteV
+
+It was originally (before my modifications) as followed:
+```
+.workspace-ribbon.mod-left + .mod-left-split .workspace-tabs.mod-top-left-space .workspace-tab-header-spacer {
+    align-items: center;
+    justify-content: center;
+
+    &::after {
+        content: "CSS_Playground"; /* replace with your vault name or whatever */
+    }
+}
+```
+
+and lives / originally lived at: https://discord.com/channels/686053708261228577/694233507500916796/1176263259683295414

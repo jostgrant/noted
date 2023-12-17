@@ -1,0 +1,7 @@
+{
+  "titleTemplate": "ACCESS GRANT'D :: OBSIDIAN",
+  "titleTemplateEmpty": "ACCESS GRANT'D :: OBSIDIAN",
+  "titleSeparator": " - ",
+  "delimStr": "~~",
+  "overrideYamlField": "title"
+}

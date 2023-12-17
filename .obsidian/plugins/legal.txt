@@ -1,0 +1,18 @@
+These are 'community plugins' provided by the Obsidian ecosystem.
+I will make an attempt to keep this updated as I add new plugins
+to a given vault, but please check the official listing for
+top-level folders in this directory for a more complete list.
+
+MIT LICENSED:
+https://github.com/denolehov/obsidian-git
+https://github.com/MSzturc/obsidian-advanced-slides
+https://github.com/liamcain/obsidian-calendar-plugin
+https://github.com/mirnovov/obsidian-homepage
+https://github.com/blacksmithgu/obsidian-dataview
+
+GPL-3.0 LICENSED:
+https://github.com/tgrosinger/advanced-tables-obsidian
+https://github.com/mgmeyers/obsidian-kanban
+
+FREEWARE (Presumed Proprietary):
+https://github.com/zsviczian/obsidian-excalidraw-plugin
